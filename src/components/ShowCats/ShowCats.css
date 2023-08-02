@@ -1,0 +1,12 @@
+.cats__image {
+    width: 150px;
+    height: 150px;
+    border-radius: 20px;
+    margin: 20px;
+    cursor: pointer;
+}
+
+.cats__content {
+    display: flex;
+    justify-content: center;
+}
